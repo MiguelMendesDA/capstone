@@ -1,5 +1,9 @@
 🧠 Price Forecasting API (Docker)
-API for competitive price forecasting, developed with Python, Flask. Designed to meet the needs of Retailz, the solution provides real-time forecasts of the final selling prices of two strategic competitors, enabling faster and smarter business decisions.
+
+API for competitive price forecasting, developed with Python, Flask. Designed to meet the needs of **Retailz**, the solution provides real-time forecasts of the final selling prices of two strategic competitors, enabling faster and smarter business decisions.
+
+This project was developed as the **final capstone project** of the **Data Science course at Lisbon Data Science Academy**.
+
 
 📌 Introduction
 Retailz, a growing retail chain, identified the need to enhance its pricing intelligence to remain competitive in a highly dynamic market. This project was developed to address two main strategic objectives:
