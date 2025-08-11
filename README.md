@@ -11,15 +11,15 @@ Retailz, a growing retail chain, identified the need to enhance its pricing inte
 1. 📉 Historical Analysis
 By processing competitor price time series, we aim to:
 
-Understand pricing behavior patterns over time;
+ - Understand pricing behavior patterns over time;
 
-Identify recurring discounts and promotional campaigns;
+ - Identify recurring discounts and promotional campaigns;
 
-Assess how competitiveness varies across different product categories;
+ - Assess how competitiveness varies across different product categories;
 
-Detect possible price reaction behavior between competitors (e.g., one competitor lowering prices after another);
+ - Detect possible price reaction behavior between competitors (e.g., one competitor lowering prices after another);
 
-Compare competitors’ average price levels with those practiced by Retailz.
+ - Compare competitors’ average price levels with those practiced by Retailz.
 
 These analyses provide valuable insights to adjust strategies by category or seasonality.
 
@@ -50,13 +50,21 @@ Anticipating competitor behavior is essential for Retailz to remain competitive 
 📦 Project Structure
 
 ├── app.py                  # Flask API with REST endpoints
+
 ├── download_models.py      # Script to download pre-trained models from Hugging Face
+
 ├── Dockerfile              # Image definition for build and execution with Docker
+
 ├── requirements.txt        # Python dependencies list
+
 ├── EDA.ipynb               # Exploratory Data Analysis and feature generation
+
 ├── model.ipynb             # Model training, tuning, and export
+
 ├── models/                 # (generated) Stores the downloaded .pkl files
+
 ├── presentation/           # Project presentation materials
+
 └── reports/                # Generated reports and analysis outputs
 
 👨‍💻 Author
