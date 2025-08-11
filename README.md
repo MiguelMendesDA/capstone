@@ -72,6 +72,9 @@ Anticipating competitor behavior is essential for Retailz to remain competitive 
 └── reports/                # Generated reports and analysis outputs
 
 👨‍💻 Author
+
 Miguel Mendes
+
 📧 miguelmendesdataanalyst@gmail.com
+
 🔗 www.linkedin.com/in/miguelmendes-healthcare-dataanalyst
