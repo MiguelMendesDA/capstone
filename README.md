@@ -6,9 +6,11 @@ This project was developed as the **final capstone project** of the **Data Scien
 
 
 📌 Introduction
+
 Retailz, a growing retail chain, identified the need to enhance its pricing intelligence to remain competitive in a highly dynamic market. This project was developed to address two main strategic objectives:
 
 1. 📉 Historical Analysis
+   
 By processing competitor price time series, we aim to:
 
  - Understand pricing behavior patterns over time;
@@ -24,6 +26,7 @@ By processing competitor price time series, we aim to:
 These analyses provide valuable insights to adjust strategies by category or seasonality.
 
 2. 🔮 Price Forecasting via API
+   
 The second objective was to develop a robust, scalable, and integrable forecasting solution:
 
  - Predict the final selling price (PVP) of two competitors based on a SKU and a future date;
@@ -35,6 +38,7 @@ The second objective was to develop a robust, scalable, and integrable forecasti
  - Allow registering actual prices later, enabling accuracy monitoring.
 
 💼 Business Rationale
+
 Anticipating competitor behavior is essential for Retailz to remain competitive without compromising margins. With this API, the pricing team can:
 
  - Simulate future scenarios;
